@@ -1,0 +1,60 @@
+/* custom css */
+
+body{
+		width: 100%
+	}
+*{
+	font-family: garamond
+}
+h1{
+	font-family: calibri;
+	margin-bottom: -5px;
+	text-align: center;
+}
+
+
+
+h2 {
+	margin-bottom: -20px;
+	font-family: calibri;
+}
+
+h3 {
+	text-align: center;
+	margin: -6px
+	}
+
+.c1{
+		width: 20%;
+float: left;
+}
+
+.c2{
+		width: 20%;
+float: left;
+}
+
+.c3{
+		width: 20%;
+float: left;
+}
+
+.emp{
+	float: left;
+	padding-left: 5px;
+}
+
+.pos{
+	float: center;
+	text-align: center;
+	padding-left: 15%;
+}
+
+.date{
+	float: right;
+	padding-right: 10px;
+
+ul {
+	margin-left: -12px;
+	line-height: 20px;
+}
